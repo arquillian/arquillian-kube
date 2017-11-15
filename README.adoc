@@ -1,2 +1,3 @@
 = Arquillian Kube
-Arquillian Cube Kubernetes documentation site
+
+Arquillian Cube Kubernetes documentation site which automatically redirects to http://arquillian.org/arquillian-cube/#_kubernetes
